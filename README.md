@@ -9,5 +9,3 @@ Repositorio proyecto realizado en la materia "Mecánica estadística", en este p
 ---
 Se plantea una variante del modelo de “el Juego de la Vida”descrito por Conway donde se propone analizar el comportamiento del sistema con un grado de libertad adicional (3D) considerando un arreglo cúbico discreto, para lo cual se modifican las reglas usando como tentativa R(5766). El el proceso se calculan las variables termodinámicas definidas para el sistema con condiciones iniciales. Se hace en contraste experimental con ayuda de simulaciones y por último se comparan los resultados obtenidos con los del sistema original de Conway en 2D.
 ---
-<img src = "https://lh3.googleusercontent.com/iZwB2p3rX7D7h-4QWSmKXy-_4FBRVCB8A8vrGwQduZzqfU-1ZMewoumgw3HOTiOsrN3Ax_vnOuUGRFnWuIbGoOWpAnpCoxGqvxg"/>
----
